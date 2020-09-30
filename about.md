@@ -11,12 +11,17 @@ En pocas palabras soy una diseñadora que le gusta mucho el código y los retos 
 ### Otras cosas que me gustan:
 
 🚴‍ Cycling
+
 📒 Lectura
+
 ✍️ Blogging
 
 ### Contáctame
 
-[LinkedIn](https://www.linkedin.com/in/ingrid-sofia-escobar-14513a70/)
+[eMail](mailto:escobar.isofia@gmail.com)
+
 [Behance](https://www.behance.net/isofiaescobar)
-[escobar.isofia@gmail.com](mailto:escobar.isofia@gmail.com)
+
+[LinkedIn](https://www.linkedin.com/in/ingrid-sofia-escobar-14513a70/)
+
 [Descargar mi CV](https://sssofia.github.io/sophie-landing/docs/cv-sofiaescobar.pdf)
