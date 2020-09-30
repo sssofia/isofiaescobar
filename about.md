@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Acerca de mi
+permalink: /acerca-de-mi/
 ---
 
 ¡Hola soy Sofía!🤓
@@ -10,9 +10,9 @@ En pocas palabras soy una diseñadora que le gusta mucho el código y los retos 
 
 ### Otras cosas que me gustan:
 
-<ul>
-  <li>lista</li>
-<ul>
+🚴‍ Cycling
+📒 Lectura
+✍️ Blogging
 
 ### Contáctame
 
