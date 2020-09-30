@@ -4,12 +4,19 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+¡Hola soy Sofía!🤓
 
-### More Information
+En pocas palabras soy una diseñadora que le gusta mucho el código y los retos que esta trae en el camino. Parte de mi trabajo me caracteriza por tener un rol de por medio entre programadores y diseñadores, facilitando la comunicación entre ambas áreas.
 
-A place to include any other types of information that you'd like to include about yourself.
+### Otras cosas que me gustan:
 
-### Contact me
+<ul>
+  <li>lista</li>
+<ul>
 
-[email@domain.com](mailto:email@domain.com)
+### Contáctame
+
+[LinkedIn] (https://www.linkedin.com/in/ingrid-sofia-escobar-14513a70/)
+[Behance](https://www.behance.net/isofiaescobar)
+[escobar.isofia@gmail.com](mailto:escobar.isofia@gmail.com)
+[Descargar mi CV](https://sssofia.github.io/sophie-landing/docs/cv-sofiaescobar.pdf)
