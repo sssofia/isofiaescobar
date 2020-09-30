@@ -47,7 +47,7 @@ url: https://sssofia.github.io/isofiaescobar/
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "https://sssofia.github.io/isofiaescobar/"
+baseurl: "https://sssofia.github.io/isofiaescobar"
 
 #
 # !! You don't need to change any of the configuration flags below !!
