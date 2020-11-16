@@ -13,10 +13,11 @@ En pocas palabras soy una diseñadora que le gusta mucho el código y los retos 
 <br><br>
 Actualmente me encuentro trabajando en <b>Conduent</b> como <b>UX Engineer</b>.
 </div>
+<div style="clear:both;"></div>
 
-<div style="float:left; max-width:100%; width: 65%;">
+<div style="float:left; max-width:100%; width: 55%;">
 <b>Otras cosas que me gustan:</b>
-<ul>
+<ul style="list-style-type: none;">
 <li>🚴‍ Cycling</li>
 <li>📒 Lectura</li>
 <li>✍️ Blogging</li>
