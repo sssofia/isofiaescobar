@@ -8,10 +8,10 @@ permalink: /about/
 
 En pocas palabras soy una diseñadora que le gusta mucho el código y los retos que esta trae en el camino. Parte de mi trabajo me caracteriza por tener un rol de por medio entre programadores y diseñadores, facilitando la comunicación entre ambas áreas.
 
-Actualmente me encuentro trabajando en Conduent como UX Engineer.
+Actualmente me encuentro trabajando en <b>Conduent<b> como <b>UX Engineer</b>.
 
-<div class="yo">![_config.yml]({{ site.baseurl }}/images/yo02.jpg)</div>
-<div class="book">![_config.yml]({{ site.baseurl }}/images/book.jpg)</div>
+<div class="yo"><img width="300" src="{{ site.baseurl }}/images/yo02.jpg"></div>
+<div class="book"><img width="300" src="{{ site.baseurl }}/images/book.jpg"></div>
 
 ### Otras cosas que me gustan:
 
