@@ -17,7 +17,7 @@ Actualmente me encuentro trabajando en <b>Conduent</b> como <b>UX Engineer</b>.
 
 <div style="float:left; max-width:100%; width: 55%; margin-top:50px;">
 <b>Otras cosas que me gustan:</b>
-<ul style="list-style-type: none;">
+<ul style="list-style-type: none;line-height: 35px;">
 <li>🚴‍ Cycling</li>
 <li>📒 Lectura</li>
 <li>✍️ Blogging</li>
