@@ -10,8 +10,8 @@ En pocas palabras soy una diseñadora que le gusta mucho el código y los retos 
 
 Actualmente me encuentro trabajando en Conduent como UX Engineer.
 
-![_config.yml]({{ site.baseurl }}/images/yo02.jpg)
-![_config.yml]({{ site.baseurl }}/images/book.jpg)
+<div class="yo">![_config.yml]({{ site.baseurl }}/images/yo02.jpg)</div>
+<div class="book">![_config.yml]({{ site.baseurl }}/images/book.jpg)</div>
 
 ### Otras cosas que me gustan:
 
