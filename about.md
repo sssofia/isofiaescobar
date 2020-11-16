@@ -20,7 +20,7 @@ Actualmente me encuentro trabajando en <b>Conduent</b> como <b>UX Engineer</b>.
 <li>🚴‍ Cycling</li>
 <li>📒 Lectura</li>
 <li>✍️ Blogging</li>
-<ul>
+</ul>
 </div>
 
 <div style="float:left;"><img width="300" src="{{ site.baseurl }}/images/book.jpg"></div>
