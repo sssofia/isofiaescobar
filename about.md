@@ -6,9 +6,9 @@ permalink: /about/
 
 ¡Hola soy Sofía!🤓
 
-<div class="yo"><img width="300" style="float:left;" src="{{ site.baseurl }}/images/yo02.jpg"></div>
+<div style="float:left;"><img width="300" src="{{ site.baseurl }}/images/yo02.jpg"></div>
 
-<div style="float:right;">
+<div style="float:left;">
 En pocas palabras soy una diseñadora que le gusta mucho el código y los retos que esta trae en el camino. Parte de mi trabajo me caracteriza por tener un rol de por medio entre programadores y diseñadores, facilitando la comunicación entre ambas áreas.
 
 Actualmente me encuentro trabajando en <b>Conduent</b> como <b>UX Engineer</b>.
@@ -24,7 +24,9 @@ Actualmente me encuentro trabajando en <b>Conduent</b> como <b>UX Engineer</b>.
 ✍️ Blogging
 </div>
 
-<div class="book"><img width="300" style="float: right" src="{{ site.baseurl }}/images/book.jpg"></div>
+<div style="float:left;"><img width="300" src="{{ site.baseurl }}/images/book.jpg"></div>
+
+<div style="clear:both;"></div>
 
 ### Contáctame
 
