@@ -4,18 +4,18 @@ title: About
 permalink: /about/
 ---
 
-¡Hola soy Sofía!🤓
-
 <div style="float:left;"><img width="300" src="{{ site.baseurl }}/images/yo02.jpg"></div>
 
-<div style="float:left;">
+<div style="float:left; max-width: 100%, margin-left: 20px; width: 55%">
+¡Hola soy Sofía!🤓
+  <br>
 En pocas palabras soy una diseñadora que le gusta mucho el código y los retos que esta trae en el camino. Parte de mi trabajo me caracteriza por tener un rol de por medio entre programadores y diseñadores, facilitando la comunicación entre ambas áreas.
-
+<br>
 Actualmente me encuentro trabajando en <b>Conduent</b> como <b>UX Engineer</b>.
 </div>
 
 <div style="float:left">
-### Otras cosas que me gustan:
+<b>Otras cosas que me gustan:</b>
 
 🚴‍ Cycling
 
