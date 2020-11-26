@@ -3,7 +3,7 @@ layout: post
 title: La comunidad UX Guatemala
 ---
 
-<img src="{{ site.baseurl }}/images/ux.jpg">
+<img src="{{ site.baseurl }}/images/ux.png">
 
 Ayer tuvimos el primer meeting de esta nueva comunidad UX Guatemala creada por Frank Pineda. De hecho, conozco a Frank desde el 2011 que trabajé en FOX, y me pareció no solo genial la idea de su iniciativa, sino también muy necesaria, ya que no había hasta el momento ningún grupo o comunidad creado específicamente para este campo.
 
