@@ -19,7 +19,7 @@ define( €@$WP_AUTO_UPDATE_CORE$@€, true );
 
 Si quieren saber la importancia de unas simples comillas, pues aquí está. Este es un claro ejemplo de lo que podría pasar. Obviamente al reconocer lo que estaban haciendo los caracteres, los eliminé, coloqué las comillas donde deberían estar y ¡voilá! El error desapareció y pude entrar a mi blog como siempre lo había hecho.
 
-El punto de esta larga historia es simple: Si tienen su blog o cualquier otro sitio en Wordpress, tomen su tiempo de darle mantenimiento, actualizarlo y asegurarlo. Por ejemplo, yo en mi blog y demás sitios de Wordpress que hago coloco plugins como [Jetpack]([https://es.wordpress.org/plugins/jetpack/](https://es.wordpress.org/plugins/jetpack/)) para mejorar la seguridad, evitar spam y eventos así. Pero, considerando una situación parecida a la mía, la solución que encontré gracias al foro de Wordpress es colocar un código en el archivo de .htaccess para prohibir el acceso al archivo de wp-config.php y evitar cambios en el código como lo que me sucedió.
+El punto de esta larga historia es simple: Si tienen su blog o cualquier otro sitio en Wordpress, tomen su tiempo de darle mantenimiento, actualizarlo y asegurarlo. Por ejemplo, yo en mi blog y demás sitios de Wordpress que hago coloco plugins como [Jetpack](https://es.wordpress.org/plugins/jetpack/) para mejorar la seguridad, evitar spam y eventos así. Pero, considerando una situación parecida a la mía, la solución que encontré gracias al foro de Wordpress es colocar un código en el archivo de .htaccess para prohibir el acceso al archivo de wp-config.php y evitar cambios en el código como lo que me sucedió.
 
 Este es el código (colocarlo hasta arriba)
 
@@ -32,4 +32,4 @@ deny from all
 
 Ya colocado, no es necesario cambiar permisos en el archivo.
 
-Si quieren saber más sobre cómo mejorar la seguridad de sus sitios de Wordpress, aquí está la página que me ayudó: [Hardening Wordpress]([https://wordpress.org/support/article/hardening-wordpress/](https://wordpress.org/support/article/hardening-wordpress/)). Igual, si conocen más recomendaciones sobre cómo mejorar la seguridad en Wordpress, son bienvenidos 😄
+Si quieren saber más sobre cómo mejorar la seguridad de sus sitios de Wordpress, aquí está la página que me ayudó: [Hardening Wordpress](https://wordpress.org/support/article/hardening-wordpress/) . Igual, si conocen más recomendaciones sobre cómo mejorar la seguridad en Wordpress, son bienvenidos 😄
