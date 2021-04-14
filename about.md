@@ -26,6 +26,7 @@ Actualmente me encuentro trabajando en <b>Conduent</b> como <b>UX Engineer</b>.
 </div>
 
 <div style="float:left;"><img width="300" src="{{ site.baseurl }}/images/book.jpg"></div>
+<div style="float:left;"><img width="300" src="{{ site.baseurl }}/images/zoo.jpg"></div>
 
 <div style="clear:both;"></div>
 
