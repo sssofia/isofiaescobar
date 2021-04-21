@@ -7,7 +7,7 @@ permalink: /about/
 <style>
   @media (max-width: 500px) {
     .mobile-p {
-      width: 90%;
+      width: 90% !important;
       margin: 15px 0;
     }
   }
