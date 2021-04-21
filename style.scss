@@ -229,16 +229,16 @@ nav {
 
   a {
     margin-left: 20px;
-    color: #886CE4;
-    text-decoration: underline;
+    color: #886CE4 !important;
+    text-decoration: underline !important;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: #886CE4;
-      text-decoration: underline;
+      color: #886CE4 !important;
+      text-decoration: underline !important;
     }
   }
 }
