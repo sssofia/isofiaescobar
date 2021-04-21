@@ -11,6 +11,15 @@ permalink: /about/
       margin: 15px 0;
       margin-left: 0 !important;
     }
+    .book-mobile {
+      float: right !important;
+      width: 65% !important;
+    }
+    .zoo-mobile {
+      float: right !important;
+      margin-top: -85px !important;
+      margin-right: 100px !important;
+    }
   }
 </style>
 
@@ -35,8 +44,8 @@ Actualmente me encuentro trabajando en <b>Conduent</b> como <b>UX Engineer</b>.
 </ul>
 </div>
 
-<div style="float:left;"><img width="300" src="{{ site.baseurl }}/images/book.jpg"></div>
-<div style="float:right;margin-top:-155px;margin-right:200px;"><img width="300" src="{{ site.baseurl }}/images/zoo.jpg"></div>
+<div class="book-mobile" style="float:left;"><img width="300" src="{{ site.baseurl }}/images/book.jpg"></div>
+<div class="zoo-mobile" style="float:right;margin-top:-155px;margin-right:200px;"><img width="300" src="{{ site.baseurl }}/images/zoo.jpg"></div>
 
 <div style="clear:both;"></div>
 
