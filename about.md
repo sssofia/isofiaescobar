@@ -9,6 +9,7 @@ permalink: /about/
     .mobile-p {
       width: 90% !important;
       margin: 15px 0;
+      margin-left: 0 !important;
     }
   }
 </style>
