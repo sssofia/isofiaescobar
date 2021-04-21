@@ -4,9 +4,18 @@ title: About
 permalink: /about/
 ---
 
+<style>
+  @media (max-width: 500px) {
+    .mobile-p {
+      width: 90%;
+      margin: 15px 0;
+    }
+  }
+</style>
+
 <div style="float:left;"><img width="300" src="{{ site.baseurl }}/images/instayo.jpg"></div>
 
-<div style="float:left; max-width: 100%; margin-left: 20px; width: 55%">
+<div class="mobile-p" style="float:left; max-width: 100%; margin-left: 20px; width: 55%">
   ¡Hola soy <b>Sofía</b>!🤓
   <br><br>
   En pocas palabras soy una <b>diseñadora</b> que le gusta mucho el <b>código</b> y los retos que esta trae en el camino. Parte de mi trabajo me caracteriza por tener un <b>rol</b> de por medio entre programadores y diseñadores, <b>facilitando</b> la comunicación entre ambas áreas.
