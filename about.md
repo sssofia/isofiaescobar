@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<div style="float:left;"><img width="300" src="{{ site.baseurl }}/images/yoyo.jpeg"></div>
+<div style="float:left;"><img width="300" src="{{ site.baseurl }}/images/instayo.jpg"></div>
 
 <div style="float:left; max-width: 100%; margin-left: 20px; width: 55%">
   ¡Hola soy <b>Sofía</b>!🤓
