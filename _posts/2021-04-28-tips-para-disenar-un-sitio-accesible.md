@@ -3,7 +3,7 @@ layout: post
 title: Tips para diseñar un sitio accesible
 ---
 
-Tanto tiempo escribiendo en inglés la palabra "accessibility" que por poco escribo "accessibilidad" (hahaha). Lo siento, no pude evitarlo. Dejando a un lado mi mal chiste de ortografía, hoy quiero continuar el tema de la accesibilidad en la web gracias a un artículo que me topé en el camino: [Designing with accessibility in mind]([https://uxplanet.org/designing-with-accessibility-in-mind-f25a3f70b8c0](https://uxplanet.org/designing-with-accessibility-in-mind-f25a3f70b8c0)). 
+Tanto tiempo escribiendo en inglés la palabra "accessibility" que por poco escribo "accessibilidad" (hahaha). Lo siento, no pude evitarlo. Dejando a un lado mi mal chiste de ortografía, hoy quiero continuar el tema de la accesibilidad en la web gracias a un artículo que me topé en el camino: [Designing with accessibility in mind](https://uxplanet.org/designing-with-accessibility-in-mind-f25a3f70b8c0). 
 
 En realidad, no tengo nada en contra del artículo. Me parece que resume muy bien los aspectos que hay que tomar para que un sitio sea accesible sin abrumar a los diseñadores con los aspectos técnicos. Sin embargo, creo que el título está mal. El contenido del artículo mezcla tips tanto de código como de diseño, cuando el título habla en específico desde el punto de vista de diseño. Esto me llevó a pensar: al final, ¿cómo se puede hacer accesible un sitio web si solamente se abarca la parte del diseño? 
 
@@ -15,7 +15,7 @@ Sin más preámbulos, les comparto mis tips:
 
 <b>1. Contraste de color</b>
 
-Más que una regla básica del diseño gráfico, como el típico caso del amarillo sobre blanco, lo que hay que considerar es el tema del daltonismo y sus diferentes tipos. Por ello es muy importante simplificar el contraste entre fondo y los elementos sobre este, a manera que puedan resaltar y sean fáciles de leer. Según los lineamientos del WCAG 2.1 un sitio web accesible tiene que tener un valor mínimo de contraste, y hay sitios como [WebAIM][(https://webaim.org/resources/contrastchecker/](https://webaim.org/resources/contrastchecker/)) los cuales son muy útiles para revisar el contraste de los colores que estamos utilizando y si se encuentran entre los valores sugeridos.
+Más que una regla básica del diseño gráfico, como el típico caso del amarillo sobre blanco, lo que hay que considerar es el tema del daltonismo y sus diferentes tipos. Por ello es muy importante simplificar el contraste entre fondo y los elementos sobre este, a manera que puedan resaltar y sean fáciles de leer. Según los lineamientos del WCAG 2.1 un sitio web accesible tiene que tener un valor mínimo de contraste, y hay sitios como [WebAIM](https://webaim.org/resources/contrastchecker) los cuales son muy útiles para revisar el contraste de los colores que estamos utilizando y si se encuentran entre los valores sugeridos.
 
 <b>2. Complementar la información proporcionada con colores</b>
 
