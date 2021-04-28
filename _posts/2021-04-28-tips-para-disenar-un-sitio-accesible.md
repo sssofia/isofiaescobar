@@ -13,21 +13,21 @@ Pero no nos asustemos, aquí nos enfocaremos solo en el diseño ;)
 
 Sin más preámbulos, les comparto mis tips:
 
-1. Contraste de color
+<b>1. Contraste de color</b>
 
 Más que una regla básica del diseño gráfico, como el típico caso del amarillo sobre blanco, lo que hay que considerar es el tema del daltonismo y sus diferentes tipos. Por ello es muy importante simplificar el contraste entre fondo y los elementos sobre este, a manera que puedan resaltar y sean fáciles de leer. Según los lineamientos del WCAG 2.1 un sitio web accesible tiene que tener un valor mínimo de contraste, y hay sitios como [WebAIM][(https://webaim.org/resources/contrastchecker/](https://webaim.org/resources/contrastchecker/)) los cuales son muy útiles para revisar el contraste de los colores que estamos utilizando y si se encuentran entre los valores sugeridos.
 
-2. Complementar la información proporcionada con colores
+<b>2. Complementar la información proporcionada con colores</b>
 
 Por ejemplo, en el caso de los mensajes de error. No limitarse a diseñar mensajes de error con color rojo y dejarlos así, sino también agregar un ícono o incuso un título o texto complementario que transmita que es un mensaje de error. En este aspecto me sirve pensar que estoy armando el diseño en escala de grises, (aclaración: las personas con daltonismo no miran así, esto es solo para fines didácticos) y analizar los elementos que estoy utilizando y si estos se explican por si solos. Si regresamos al ejemplo del mensaje de error sin icono o texto complementario, si nos pasamos a la "modalidad gris", ¿estaría comunicando que es un error o se confundiría con otra cosa?
 
 Esto aplica también a elementos como enlaces. No solamente hay que cambiar el color de ellos, sino también mantener el subrayado para que visualmente este se diferencie del texto a su alrededor.
 
-3. Contraste de color en todos los elementos interactivos
+<b>3. Contraste de color en todos los elementos interactivos</b>
 
 Para cerrar el tema del color, quiero recalcar que esto aplica a todo, en especial con elementos interactivos como botones, formularios y galerías. Es importante que los controles de las galerías o sliders y el texto dentro de los campos de los formularios (placeholder de los inputs) no sea de un gris muy claro que se confunda con el fondo. Obviamente el color de estos elementos cambia cuando estan activos e inactivos, pero hay que cuidar el contraste entre estos dos estados y el fondo. Otro estado muy importante aquí es el estado :focus, el cual permite que sea visible la posición con la que nos encontramos navegando con el teclado. Es por ello que tenemos que cuidar su contraste para que el sitio se pueda navegar correctamente y no se pierda de vista.
 
-4. Tamaño del texto
+<b>4. Tamaño del texto</b>
 
 Por último, el contraste también se maneja en los tamaños de los textos. Es importante mantener una jerarquía entre título, subtítulo y el contenido, y ser constante con su uso en todo el sitio. También, hay que evitar utilizar tamaños muy pequeños. Todo esto con el fin de facilitar la lectura.
 
