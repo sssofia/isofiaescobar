@@ -3,7 +3,7 @@ layout: post
 title: Cambio de ritmo
 ---
 
-Me parece irónico cómo es que escribí por acá sobre la consistencia de posts y mantenimiento de un blog, cuando no la he practicado mucho. Para ser sincera, estuve meditando mucho sobre mis blogs y lo que quiero hacer con ellos. ¿Mi conclusión? Decidí enfocarme en el primero y el que ha tenido más tiempo, [Inspiración Volátil](http://www.inspiracionvolatil.com/)), el cual le he hecho un rebranding y agregado el tema del minimalismo. 
+Me parece irónico cómo es que escribí por acá sobre la consistencia de posts y mantenimiento de un blog, cuando no la he practicado mucho. Para ser sincera, estuve meditando mucho sobre mis blogs y lo que quiero hacer con ellos. ¿Mi conclusión? Decidí enfocarme en el primero y el que ha tenido más tiempo, [Inspiración Volátil](http://www.inspiracionvolatil.com/), el cual le he hecho un rebranding y agregado el tema del minimalismo. 
 
 Sin embargo, esto no significa que dejaré morir este pequeño proyecto.
 
