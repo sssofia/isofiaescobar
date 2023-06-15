@@ -23,7 +23,7 @@ permalink: /about/
   }
 </style>
 
-<div style="float:left;"><img width="300" src="{{ site.baseurl }}/images/sophie2023.jpg"></div>
+<div style="float:left;"><img width="300" src="{{ site.baseurl }}/images/sophie2023.jpeg"></div>
 
 <div class="mobile-p" style="float:left; max-width: 100%; margin-left: 20px; width: 55%">
   ¡Hola soy <b>Sofía</b>!🤓
